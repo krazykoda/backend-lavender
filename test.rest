@@ -1,0 +1,9 @@
+Post http://localhost:8000/add/
+Content-Type: application/json
+
+{
+    "name": "Task 1",
+    "completed": false
+}
+
+
